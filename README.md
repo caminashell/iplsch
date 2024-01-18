@@ -2,8 +2,6 @@
 
 IP Address List Checker
 
-I haven't written any Python in a while so...
-
 I was installing UFW on Debian and looking into IP Blocking lists.
 Since I already use a well-maintained list, I thought I would compare
 it to what I had come across from a UFW source.
