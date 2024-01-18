@@ -25,8 +25,3 @@ with open('test.txt', "r") as file2:
             d = line.split()
             # Finally, print out the result on the screen.
             print('Missing:', d[0])
-
-# Future considerations;
-            # 1. Memory clean up.
-            # 1. Operators and Inputs.
-            # 1. Compiling to a binary.

@@ -34,3 +34,14 @@ python iplsch.py
 ```sh
 python3 iplsch.py
 ```
+
+#### Future considerations
+
+- Memory clean up
+- Compiling to a binary
+- Operators and Inputs
+- Append missing addresses to current list
+- Create new list based from above
+- Stout to clipboard or file
+- Sorting
+- Geo/Location, Extended info
